@@ -1,0 +1,108 @@
+#Element-box{
+
+    width: 350px;
+    height: 420px;
+    margin: auto;
+    margin-top: 25px;
+    border: 1px;
+    border-style: solid;
+    border-color: #dbdbdb;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#Log-In{
+
+    width: 75%;
+    height: 33px;
+    margin-top: 15px;
+    /* margin-bottom: 25px; */
+    color: white;
+    background-color: #4cb5f9;
+    text-align: center;
+    border-color: transparent;
+    border-radius: 10px;
+
+}
+
+#User_name{
+
+    width: 75%;
+    height: 37px;
+    background-color: #fafafa;
+    position: relative;
+    top: 38px;
+    margin-bottom: 5px;
+    border: 1px;
+    border-style: solid;
+    border-color: #dbdbdb;
+    
+}
+
+
+#Password{
+
+    width: 75%;
+    height: 37px;
+    background-color: #fafafa;
+    margin-bottom: 10px;
+    margin-top: 42px;
+    border: 1px;
+    border-style: solid;
+    border-color: #dbdbdb;
+}
+
+
+
+#hr1{
+    width: 30%;
+    margin-top: 2px;
+    
+}
+
+#hr2{
+
+    width: 30%;
+    margin-top: 2px;
+    
+}
+a{
+    text-decoration: none;
+}
+
+#flex-container{
+    width: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 10px;
+    display: flex;
+    justify-content: center;
+}
+#or{
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #7c7773;
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+#password-reset{
+    margin-top: 20px;
+    font-size: 12px;
+    font-weight: 400;
+    color: #3877b8;
+}
+#log-in-using-fb{
+    font-size: 14px;
+    font-weight: 600px;
+    color: #3877b8;
+}
+
+#insta-img{
+    position: relative;
+    left: auto;
+    right: auto;
+    top: 25px;
+}
